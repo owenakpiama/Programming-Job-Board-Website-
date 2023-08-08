@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Web Developer",
+    "company": "Tech Solutions Inc.",
+    "location": "New York, NY",
+    "description": "We're seeking a skilled web developer...",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "type": "Full-time"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "InnovateTech",
+    "location": "San Francisco, CA",
+    "description": "Join our team of software engineers to build cutting-edge applications...",
+    "skills": ["Java", "Python", "React"],
+    "type": "Full-time"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "WebWizards",
+    "location": "Los Angeles, CA",
+    "description": "Passionate about frontend development? Join our creative team...",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "type": "Contract"
+  },
+  {
+    "title": "UX/UI Designer",
+    "company": "DesignHub",
+    "location": "Chicago, IL",
+    "description": "Create intuitive and beautiful user experiences as a UX/UI designer...",
+    "skills": ["UI Design", "UX Design", "Adobe XD", "Figma"],
+    "type": "Part-time"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Analytics Co.",
+    "location": "Seattle, WA",
+    "description": "Join our data science team to analyze and interpret large datasets...",
+    "skills": ["Python", "Machine Learning", "Data Analysis"],
+    "type": "Full-time"
+  },
+  {
+    "title": "Mobile App Developer",
+    "company": "App Innovators",
+    "location": "Austin, TX",
+    "description": "Develop innovative mobile apps for various platforms...",
+    "skills": ["iOS Development", "Android Development", "Flutter"],
+    "type": "Contract"
+  },
+  {
+    "title": "Product Manager",
+    "company": "Tech Ventures",
+    "location": "Boston, MA",
+    "description": "Lead product development and strategy as a product manager...",
+    "skills": ["Product Management", "Agile", "Market Research"],
+    "type": "Full-time"
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "company": "Secure Systems",
+    "location": "Washington, D.C.",
+    "description": "Protect our systems from cyber threats as a cybersecurity analyst...",
+    "skills": ["Cybersecurity", "Network Security", "Incident Response"],
+    "type": "Part-time"
+  }
+]
